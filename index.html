@@ -1,5 +1,188 @@
+<!DOCTYPE html>
 <html>
+<head>
+	<title>Anmol Panda's Homepage</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Anmol Panda is a research associate at the Insian Institute of Technology - Delhi.">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="css/main.css" rel="stylesheet">
+	<link href="css/simplegrid.css" rel="stylesheet">
+	<link href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" rel="stylesheet"/>
+</head>
+
 <body>
-<h1> Hello! I am Anmol </h1>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox({
+			'width'        : '100%',
+			'height'       : '80%',
+			'autoScale'    : true,
+			'transitionIn' : 'elastic',
+			'transitionOut': 'elastic',
+		});
+	});
+	</script>
+
+  	<div class="grid grid-pad" itemscope itemtype="http://schema.org/Person">
+		<div id="nav">
+			<ul>
+				<li><a href="#aboutme">About me</a></li>
+		        <li><a href="#contact">Contact</a></li>
+		        <li><a href="#projects">Projects</a></li>
+		        <li><a href="#pubs">Publications<!-- <font color="red"><i>New!</i></font> --></a></li>
+			<!--<li><a href="#talks">Talks</a></li>-->
+		        <li><a href="#teaching">Teaching Assistanship</a></li>
+				<li><a href="#courses">Courses</a></li>
+				<!--<li><a href="#links">Links</a></li>-->
+			</ul>
+		</div>
+
+		<div id="header" class="col-1-1">
+			<h1><span itemprop="name">Anmol Panda</span> <span itemprop="name"></span></h1>
+		</div>
+
+		<div class="col-custom">
+			<img alt="Anmol Panda" src="images/picture.jpg">
+    </div>
+
+    <div class="col-2-3">
+	    <p>Currently I am working as a <span itemprop="jobTitle">Research Associate</span> in the <a href="http://www.cse.iitd.ernet.in/">Department of Computer Science</a> at <a href="http://www.iitd.ernet.in/" itemprop="affiliation">IIT Delhi</a>. I am a member of <b>Cloud and HPC Lab</b> at IIT Delhi where I work under the supervision of <a href="http://www.cse.iitd.ernet.in/~sbansal/">Professor Sorav Bansal</a> since August 2016.</p>
+
+<h3><a id="resume">Bio and Resume</a></h3>
+<div class="grid-pad">
+<ul>
+<li>
+<a class="fancybox" href="#short-bio">Short Bio</a>
+<div id="short-bio" style="display:none;">
+<h3>Anmol Panda</h3>
+	<p>
+		Anmol Panda is working as a Research Associate in Cloud and HPC Lab at IIT Delhi.
+		Ankit is interested in large scale systems and operating systems in general. Currently, he is working on 
+		modeling and optimizing software based packet processing pipelines. Ankit received his Master's degree from 
+		IIT Bombay and worked under the supervision of Prof. Purushottam Kulkarni for the thesis.
+</p>
+</div>
+</li>
+
+			  	<li>
+					<a href="docs/cv.pdf">Curriculum Vitae (PDF)</a> (last updated August, 2017)
+				</li>
+				<li>
+					<a href="documents/statement/statement.pdf">Research Statement</a> (last updated August, 2017)
+			</ul>
+		</div>
+
+		<h3><a id="contact">Contact</a></h3>
+		<div class="grid-pad" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		  <p><span itemprop="email">ankitbhr.cstaff@cse.iitd.ac.in</span><br>
+			  <span itemprop="streetAddress">Cloud and HPC Lab, SIT Building</span>, 
+			  <span itemprop="addressLocality">IIT Delhi</span>, 
+			  <span itemprop="addressRegion">New Delhi</span>- 
+			  <span itemprop="postalCode">110016</span></p>
+		</div>
+	</div>
+
+	<div class="col-1-1">
+		<h2><a id="research">Research</a></h2>
+		<div class="grid-pad">
+			<p>I'm broadly interested in computer systems and networks. At IIT Delhi, my research focuses on compiler based optimizations for software based packet processing. We are working on optimizing the compilers, so that DSLs can be used more effectively. I am part of Vertecs Paper Reading group, details can be found <a href="http://www.cse.iitd.ernet.in/~sanjana/vertecs.html">here</a></p>
+		</div>
+
+		<h2><a id="projects">Projects</a></h2>
+		<div class="grid-pad">
+			<ul>
+				<li><a href="http://ankit-iitb.github.io/vlab/">vLab: Managing and Provisioning VMs for Labs</a> <i><font color="red">[M.tech Thesis]</i></font></li>
+				<li><a href="docs/ankitseminar.pdf">Study of Techniques and Applications of VM based Event Logging & Co-location Detection</a> <i><font color="red">[M.tech Seminar]</i></font></li>
+				<li><a href="http://ankitbhrdwj.github.io/LogReplication/">Design of Distributed Key-Value Store with Raft Consensus Algorithm</a></li>
+			</ul>
+		</div>
+
+		<br>
+		<h2><a id="pubs">Publications</a></h2>
+		<div class="grid-pad">
+			<ul>
+                <li>
+                    A Preliminary Performance Model for Optimizing Software Packet Processing Pipelines. <u>Anmol Panda</u>, Atul Shree, Bhargav Reddy V, and Sorav Bansal  <em>ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2017)</em>. <font color="red"><i>New!</i></font>
+                    <br>
+		    [ <a href="papers/a26-Bhardwaj.pdf">Paper</a> ] [ <a href="papers/APSys_Poster.pdf">Poster</a> ] [ <a href="papers/APSys_Presentation.pdf">Slides</a> ]
+                </li>
+			</ul>
+
+      	</div>
+
+        <br>
+		<h2><a id="teaching">Teaching Assistanship</a></h2>
+		<div class="grid-pad">
+			<ul>
+				<li>
+					Fall 2013 and Spring 2014, Computer Programming and Utilization
+				</li>
+				<li>
+					Fall 2014, <a href="http://www.cse.iitb.ac.in/infolab/Data/Courses/CS631/2014/">Implementation Techniques for Relational Database Systems</a>
+				</li>
+				<li>
+					Spring 2015, Operating System Lab  
+				</li>
+        	</ul>
+		</div>
+
+		<br>
+		<h2><a id="courses">Courses</a></h2>
+		<div class="grid-pad">
+		<ul>
+				<li><a href="http://www.cse.iitb.ac.in/infolab/Data/Courses/CS631/2013/">Implementation techniques in DBMS</a></li>
+				<li><a href="https://www.cse.iitb.ac.in/~puru/courses/autumn13/cs641/">Computer Networks</a></li>
+				<li><a href="https://www.cse.iitb.ac.in/~puru/courses/spring14/cs695/">Topics in Virtualization and Cloud Computing</a></li>
+				<li><a href="https://www.cse.iitb.ac.in/~puru/courses/spring15/cs401/">(Linux) Kernel Programming</a></li>
+				<li><a href="https://www.cse.iitb.ac.in/~mythili/teaching/cs653_spring2014/index.html">Mobile Computing</a></li>
+				<li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20618">Program Analysis</a></li>
+				<li><a href="http://www.iitb.ac.in/acadpublic/crsedetail.jsp?ccd=CS%20733">Advanced Distributed Computing - Engineering a Cloud</a></li>
+				<li><a href="https://www.cse.iitb.ac.in/~br/courses/cs699-autumn2013/">Software Lab</a></li>
+				<li>Artificial Intelligence</li>
+
+
+        	</ul>
+		<!--For a complete list of courses, visit <a href="sources/courses.html">here</a>.-->
+		</div>
+		<br>
+	</div>
+
+	<div id="footer">
+		<p>
+		<a href="https://www.linkedin.com/in/ankitbhrdwj"><img alt="Anmol Panda @ LinkedIn" src="images/linkedin.png"></img></a>
+        <a href="https://plus.google.com/u/1/+ankitbhardwajs"><img alt="Anmol Panda @ Google+" src="images/gplus.png"></img></a>
+        <a href="https://github.com/ankitbhrdwj"><img alt="Anmol Panda @ Github" src="images/github.png"></img></a>
+        <a href="https://www.facebook.com/ankitbhrdwj27"><img alt="Anmol Panda @ Facebook" src="images/facebook.png"></img></a>
+        <br>
+		Last updated: August, 2017.
+        <br>
+        The design of this webpage is inspired by <a href="https://eastzone.bitbucket.io/">James Hongyi Zeng</a>.
+		</p>
+	</div>
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-46424506-1', 'auto');
+        ga('require', 'linkid');
+        ga('send', 'pageview');
+    </script>
+
+ 	<!--
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","queueTime":0,"licenseKey":"a2cef8c3d3","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"Z11RZxdWW0cEVkYLDV4XdUYLVEFdClsdAAtEWkZQDlJBGgRFQhFMUlodXgxTUVgAQlMQBwp+VkcGX3NGClhxAwFYXX5aAVNZURJUQAdMQEpcUABERmsXUEMXB0NM","userAttributes":"SxpaQDpWQEANUFwWC1NZR1YBFQ9SBFlBB04SUUBsBEdcFl9TUw4RVRQRRhZSR2sLVF8HQAoacl0KWUxZCkBBQB8=","applicationID":"1841284","errorBeacon":"jserror.newrelic.com","applicationTime":5}</script>
+	-->
+
 </body>
 </html>
