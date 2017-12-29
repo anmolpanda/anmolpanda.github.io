@@ -23,7 +23,7 @@ body {
 }
 
 img {
-    height: 100px;
+    height: 500px;
     max-width: 100%;
     transform: rotate(90deg);
 }
