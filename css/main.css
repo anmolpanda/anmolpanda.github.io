@@ -25,6 +25,7 @@ body {
 img {
     height: auto;
     max-width: 100%;
+    transform: rotate(90deg);
 }
 
 #footer img {
