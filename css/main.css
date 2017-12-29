@@ -24,7 +24,7 @@ body {
 
 img {
     height: 500px;
-    max-width: 100%;
+    max-width: 300px;
     transform: rotate(90deg);
 }
 
