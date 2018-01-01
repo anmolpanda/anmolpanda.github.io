@@ -54,7 +54,13 @@ body {
 /* Content Columns */
 
 .col-custom {
-	width: 26.5%;
+    width: 33.33%;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
 }
 
 .col-1-1 {
