@@ -28,6 +28,14 @@ img {
     /*transform: rotate(90deg);*/
 }
 
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
 #footer img {
     margin: 5px 0 0 0;
     height: 30px;
