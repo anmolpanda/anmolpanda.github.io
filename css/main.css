@@ -29,6 +29,9 @@ img {
 }
 
 .rotate90 {
+     height: 600px;
+     width: 200px;
+     max-width: 100%;
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
