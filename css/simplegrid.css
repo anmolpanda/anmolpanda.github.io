@@ -55,6 +55,7 @@ body {
 
 .col-custom {
     width: 33.33%;
+    height: 100%;
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
