@@ -57,7 +57,7 @@
 <div class="grid-pad">
 <ul>
 <li>
-<a class="fancybox" href="#short-bio">Short Bio</a>
+<a id="fbox" class="fancybox" href="#short-bio">Short Bio</a>
 <div id="short-bio" style="display:none;">
 <h3>Anmol Panda</h3>
 	<p>
@@ -211,6 +211,14 @@ During one of the assignments of the Real time systems course, we built a path f
         ga('create', 'UA-46424506-1', 'auto');
         ga('require', 'linkid');
         ga('send', 'pageview');
+
+$(function() {
+  $("a.fancybox").fancybox({
+    'zoomSpeedIn': 300,
+    'zoomSpeedOut': 300,
+    'overlayShow': false
+  }); 
+});
     </script>
 
  	<!--
