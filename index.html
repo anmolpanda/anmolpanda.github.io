@@ -81,7 +81,7 @@
         </div>
 
         <div class="col-md-8">
-I have recently joined <b>Microsoft Research India</b> as <b>Research Fellow</b>. I work with <a href="http://joyojeet.people.si.umich.edu/">Joyojeet Pal</a> on a project to build a classifier of Indian political accounts on Twitter. Our goal is to populate a database of all such poltical accounts and analyse their discourse patterns, retweet networks, topic mapping, etc. to understand the nuances of Indian politics on social media. Additional, we are also studying extreme speech in the context of Indian politics on Twitter.
+I work as a Research Fellow at <b>Microsoft Research India</b> with <a href="http://joyojeet.people.si.umich.edu/">Joyojeet Pal</a> on a project to build a dataset of Indian political accounts on Twitter. Our goal is to populate a database of all such poltical accounts and analyse their discourse patterns, retweet networks, topic mapping, etc. to understand the nuances of Indian politics on social media. Additional, we are also studying extreme speech in the context of Indian politics on Twitter. 
 <br>
 Previously, I have worked as a <span itemprop="jobTitle">Research Associate</span> in the <b>Cloud and HPC lab</b> at the<a href="http://www.cse.iitd.ernet.in/">Department of Computer Science</a> at <a href="http://www.iitd.ernet.in/" itemprop="affiliation">IIT Delhi</a> under the supervision of <a href="http://www.cse.iitd.ernet.in/~sbansal/">Professor Sorav Bansal</a> from August 2016 to June 2018. I graduated in B.E. (Hons.) Computer Science from BITS Pilani in July 2016.<br><br>
 <b>Resume</b><br>
@@ -123,7 +123,13 @@ Previously, I have worked as a <span itemprop="jobTitle">Research Associate</spa
           <div>
             <h2>Projects</h2>
 	    <ul>
-	    <li> <p class="lead">At MSR India, we are collecting a database of Twitter accounts of public figures relevant to Indian politics. This invloves building classfier(s) to identify if a given Twitter account is relevant and obtain useful metadata such as party and state from their Twitter description. We are also studyig the use of extreme speech in online political discourses in India and the social media connections between mainstream celebrities and major politicians. </p></li>
+	    <li> <p class="lead">At MSR India, we are collecting a database of Twitter accounts of public figures relevant to Indian politics. We have built NivaDuck - Marathi word for selector - a machine learning classification pipeline that can find Twitter handles of politicians in a given country by leveraging the Twitter bio, tweet data, hashtags used and friend network of a seed set. NivaDuck has so far identified in excess of 15000 Indian politicians and 8000+ US politicians at the national, state and local levels. We are working continuosly to improve NivaDuck's performance and functionality, such as identifying party, state and level in the organisational hierarchy.
+		</p></li>
+
+		<li> <p class="lead">
+		My current research, in collaboration with <a href="https://ashwinrajadesingan.com">Ashwin Rajaesingan</a> at the <a href="https://www.si.umich.edu/">University of Michigan's School of Information</a>,  focuses on the centrality of leaders and parties in the 2019 Indian general election campaign. Moreover, I am also studying the thematic preferences in Twitter campaigns deployed by over 8000 Indian politicians of India's two main parties, the BJP and the INC, by analysing the correlation, cooccurence and temporal variance of hashtags in their tweets with Ramaravind Kommiya Mothilal. I am also working with Azagu Meena to study the use of misogynist tropes and anti-#MeToo attacks on Twitter and their coverage by the mainstream press in India.
+
+		</p></li>
 
 	    <li> <p class="lead">At IIT Delhi, I worked with <a href="https://ankitbhrdwj.github.io/">Ankit Bhardwaj</a> and <a href="http://www.cse.iitd.ernet.in/~spandey/">Shailja Pandey</a> to design an implement compiler optimisations for packet processing applications. These optimizations source their gains from memory level parallelism through batching, efficient scheduling, and cross-producting of lookup tables. Our poster on the same was accepted at <a href="https://www.usenix.org/conference/nsdi18/poster-session">NSDI 2018</a>. It has also been submitted as a full paper at <a href="https://www.usenix.org/conference/osdi18">OSDI 2018</a>.<br> The MLP benchmarks and experiments are detailed in this document <a href="papers/MLP.pdf">MLP</a> </p></li>
             	
@@ -145,10 +151,21 @@ Previously, I have worked as a <span itemprop="jobTitle">Research Associate</spa
           <div>
             <h2>Publications</h2>
 	    <ul>
+	    <li><p>
+			    	Affording Extremes: Incivility, Social Media and Democracy in the Indian context. <u>Anmol Panda</u>, Han Zhang, Noopur Raval, Sunanda Chakravarty, Mugdha Mohapatra, Joyojeet Pal. Microsoft Research India.
+			    	<br>
+			    	Paper accepted at the <em>Practical Social Informatics: Collaboration Across Fields, Sectors, and Borders</em>  workshop at <a href="https://www.asist.org/">ASIS&T 2019</a>, Melbourne, Australia.
+			    	<font color="red"><i>New!</i></font>
+	    </p></li>
+
+	    <li><p>
+	    			
+
+	    </p></li>
 	    <li><p class="lead">
 					Typological analysis of extreme speech related tweets in the context of Indian electoral politics. <u>Anmol Panda</u>, Ramgopal Chandrashekaran, Shubi Agarwal, Joyojeet Pal. Microsoft Research India.
 					<br>
-                    Presented at the <em>International workshop on Global Perspectives on Extreme Speech Online, 10-11 December 2018, Ludwig-Maxmilan University, Munich, Germany</em>. <font color="red"><i>New!</i></font> 
+                    Presented at the <em>International workshop on Global Perspectives on Extreme Speech Online, 10-11 December 2018, Ludwig-Maxmilan University, Munich, Germany</em>.
                     <br>
                     [ <a href="http://www.fordigitaldignity.com/international-workshop-global-perspectives-on-extreme-speech-online">Workshop website</a> ] 
                 </p></li>
@@ -164,8 +181,6 @@ Previously, I have worked as a <span itemprop="jobTitle">Research Associate</spa
                     <br>
                     [ <a href="papers/PDGC_paper.pdf">Paper</a> ] [ <a href="papers/anmol_thesis.pdf">Undergraduate thesis</a> ] [ <a href="papers/PDGC_presentation.pdf">Slides</a> ]
                 </p></li>
-
-
 	    </ul>
           </div>
         </div>
@@ -178,10 +193,34 @@ Previously, I have worked as a <span itemprop="jobTitle">Research Associate</spa
           <div>
             <h2>Other literature</h2>
 	    <ul>
-		<li><p class="lead">
-                    On Twitter, Sachin Pilot is CM and Shivraj trumps Modi in MP. Joyojeet Pal, <u>Anmol Panda</u>, Ramgopal Chandrashekaran <em>Article on the 2018 state assembly elections for Livemint.com</em>. 
+	    		<li><p class="lead">
+                    The use of social media in the 2019 General Elections. Joyojeet Pal, Azagu Meena, Drupa Dinnie Charles, <u>Anmol Panda</u>. <em>Published in the Seminar Magazine</em>. 
+                    <br>
+                    [ <a href="http://www.india-seminar.com/2019/720/720_joyojeet_pal_et_al.htm">Link</a> ]
+                    <!-- [ <a href="papers/mint_article.pdf">] -->
+                </p></li>
+				<li><p class="lead">
+                    How #BJP fused with #StrongIndia in #2019. Joyojeet Pal, <u>Anmol Panda</u>, Faisal Lalani. <em>Full page story for the Mint newspaper</em>. 
+                    <br>
+                    [ <a href="https://www.livemint.com/elections/lok-sabha-elections/how-bjp-fused-with-strongindia-in-2019-1557414405626.html">Article</a> on livemint.com ]
+                    <!-- [ <a href="papers/mint_article.pdf">] -->
+                </p></li>
+                <li><p class="lead">
+                    Narendra Modi matinee show: Inside India's celeb Twitter. Joyojeet Pal,<u>Anmol Panda</u>. <em>Full page story for the Mint newspaper</em>. 
+                    <br>
+                    [ <a href="https://www.livemint.com/politics/news/narendra-modi-matinee-show-inside-india-s-celeb-twitter-1548616373119.html">Article</a> on livemint.com ]
+                    <!-- [ <a href="papers/mint_article.pdf">] -->
+                </p></li>
+                <li><p class="lead">
+                    Elections 2019: What tweet for tat tells you about Rahul Gandhi. Joyojeet Pal. Contributions by Andre Gonawela, <u>Anmol Panda</u>, Ramarvind K.M. and Ajai Sreevatsan. <em>Full page story for the Mint newspaper</em>. 
                     <br>
                     [ <a href="https://www.livemint.com/Politics/OJIYbL2mgZzsMXLyB0GylL/twitter-rajasthan-mp-elections-sachin-pilot-shivraj-singh-ch.html">Article</a> on livemint.com ]
+                    <!-- [ <a href="papers/mint_article.pdf">] -->
+                </p></li>
+                <li><p class="lead">
+                    On Twitter, Sachin Pilot is CM and Shivraj trumps Modi in MP. Joyojeet Pal, <u>Anmol Panda</u>, Ramgopal Chandrashekaran <em>Article on the 2018 state assembly elections for Livemint.com</em>. 
+                    <br>
+                    [ <a href="https://www.livemint.com/elections/lok-sabha-elections/elections-2019-what-tweet-for-tat-tells-you-about-rahul-gandhi-1556058743723.html">Article</a> on livemint.com ]
                     <!-- [ <a href="papers/mint_article.pdf">] -->
                 </p></li>
 
