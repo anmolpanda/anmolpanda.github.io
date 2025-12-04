@@ -5,6 +5,8 @@
  *  Copyright 2021 James P. Walsh
  *  Licensed under SIL OFL 1.1 (http://scripts.sil.org/OFL)
  */
+/* Note: This file provides fallback styling. 
+   The actual academicons font is loaded via CDN in the layout file. */
 .ai {
   display: inline-block;
   font: normal normal normal 14px/1 "Academicons";
@@ -18,10 +20,3 @@
   vertical-align: -15%; }
 .ai-google-scholar:before {
   content: "\e9d4"; }
-
-@font-face {
-  font-family: 'Academicons';
-  src: url('https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css');
-  font-weight: normal;
-  font-style: normal;
-}
