@@ -1,0 +1,31 @@
+experiences:
+
+- place: "University of Michigan"
+  time: "2020 - now"
+  title: "Ph.D. Candidate"
+  subtitle: "School of Information"
+  category: "school"
+
+- place: "Microsoft Research India"
+  time: "2018 - 2020"
+  title: "Research Fellow"
+  subtitle: "with Joyojeet Pal, Monojit Choudhury, Kalika Bali"
+  category: "work"
+
+- place: "IIT Delhi"
+  time: "2016 - 2018"
+  title: "Research Associate"
+  subtitle: "Cloud and HPC Lab, Department of Computer Science"
+  category: "work"
+
+- place: "Uppsala University"
+  time: "Fall 2015"
+  title: "Exchange Student"
+  subtitle: "Erasmus Mundus NAMASTE Program"
+  category: "school"
+
+- place: "BITS Pilani"
+  time: "2012 - 2016"
+  title: "B.E. Student"
+  subtitle: "Computer Science (Hons.)"
+  category: "school"

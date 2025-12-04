@@ -1,0 +1,27 @@
+/*!
+ *  Academicons 1.8.6
+ *  https://jpswalsh.github.io/academicons/
+ *
+ *  Copyright 2021 James P. Walsh
+ *  Licensed under SIL OFL 1.1 (http://scripts.sil.org/OFL)
+ */
+.ai {
+  display: inline-block;
+  font: normal normal normal 14px/1 "Academicons";
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+.ai-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -15%; }
+.ai-google-scholar:before {
+  content: "\e9d4"; }
+
+@font-face {
+  font-family: 'Academicons';
+  src: url('https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css');
+  font-weight: normal;
+  font-style: normal;
+}

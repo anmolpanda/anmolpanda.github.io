@@ -1,0 +1,89 @@
+papers:
+
+  - title: "Modalities of Political Engagement on Social Media and Voting for Donald Trump: Capturing Heterogeneity by Race over Time"
+    authors: "<b>Anmol Panda</b>, Libby Hemphill"
+    venue: "Pre-print. 2024."
+    paper_pdf: "/papers/Writing_Sample_Political_Engagement.pdf"
+    selected: y
+
+  - title: "How digital paywalls shape news coverage"
+    authors: "Paramveer Dhillon, <b>Anmol Panda</b>, Libby Hemphill"
+    venue: "PNAS Nexus. 2024."
+    paper_pdf: "https://academic.oup.com/pnasnexus/article/4/1/pgae511/7960035"
+    selected: y
+
+  - title: "Comparative sensitivity of social media data and their acceptable use in research"
+    authors: "Libby Hemphill, Angela Schöpke-Gonzalez, <b>Anmol Panda</b>"
+    venue: "Scientific Data. 2022."
+    paper_pdf: "https://www.nature.com/articles/s41597-022-01773-w"
+    selected: y
+
+  - title: "Political hazard: misinformation in the 2019 Indian general election campaign"
+    authors: "Syeda Zainab Akbar, <b>Anmol Panda</b>, Joyojeet Pal"
+    venue: "South Asian History and Culture. 2022."
+    paper_pdf: "https://www.tandfonline.com/doi/full/10.1080/19472498.2022.2095596"
+    selected: y
+
+  - title: "Devotees on an Astroturf: Media, Politics, and Outrage in the Suicide of a Popular FilmStar"
+    authors: "Syeda Zainab Akbar, Ankur Sharma, Dibyendu Mishra, Ramaravind Kommiya Mothilal, Himani Negi, Sachita Nishal, <b>Anmol Panda</b>, Joyojeet Pal"
+    venue: "ACM COMPASS. 2022."
+    paper_pdf: "https://dl.acm.org/doi/fullHtml/10.1145/3530190.3534801"
+    selected: n
+
+  - title: "COVID, BLM, and the polarization of US politicians on Twitter"
+    authors: "<b>Anmol Panda</b>, Divya Siddarth, Joyojeet Pal"
+    venue: "ArXiv preprint. 2020."
+    paper_pdf: "https://www.researchgate.net/publication/343546659_COVID_BLM_and_the_polarization_of_US_politicians_on_Twitter"
+    selected: y
+
+  - title: "Topical Focus of Political Campaigns and its Impact: Findings from Politicians' Hashtag Use during the 2019 Indian Elections"
+    authors: "<b>Anmol Panda</b>, Ramaravind Kommiya Mothilal, Monojit Choudhury, Kalika Bali, Joyojeet Pal"
+    venue: "CSCW'20: Conference on Computer-Supported Cooperative Work and Social Computing. 2020."
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3392860"
+    selected: y
+
+  - title: "NivaDuck - A Scalable Pipeline to Build a Database of Political Twitter Handles for India and the United States"
+    authors: "<b>Anmol Panda</b>, A'ndre Gonawela, Sreangsu Acharyya, Dibyendu Mishra, Mugdha Mohapatra, Ramgopal Mohapatra, Ramgopal Chandrasekaran, Joyojeet Pal"
+    venue: "SMSociety'20: International Conference on Social Media and Society. 2020."
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3400806.3400830"
+    video: "https://www.youtube.com/watch?v=YBwJzV44e0Y"
+    data: "https://github.com/anmolpanda/NivaDuck_public"
+    selected: y
+
+  - title: "Leader or Party? Personalization in Twitter Political Campaigns during the 2019 Indian Elections"
+    authors: "Ashwin Rajadesingan, <b>Anmol Panda</b>, Joyojeet Pal"
+    venue: "SMSociety'20: International Conference on Social Media and Society. 2020."
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3400806.3400827"
+    selected: n
+
+  - title: "Affording Extremes: Incivility, Social Media and Democracy in the Indian context"
+    authors: "<b>Anmol Panda</b>, Han Zhang, Noopur Raval, Sunandan Chakravarty, Mugdha Mohapatra, Joyojeet Pal"
+    venue: "ICTD'20: Proceedings of the 2020 International Conference on Information and Communication Technologies and Development. 2020."
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3392561.3394637"
+    selected: n
+
+  - title: "From Greetings to Corruption: Politicians, Political Parties, and Tweeting in India"
+    authors: "Lia Bozarth, <b>Anmol Panda</b>, Ceren Budak, Joyojeet Pal"
+    venue: "ICTD'20: Proceedings of the 2020 International Conference on Information and Communication Technologies and Development. 2020."
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3392561.3394636"
+    selected: n
+
+  - title: "Twitter in the 2019 Indian General Elections: Trends of Use Across States and Parties"
+    authors: "Joyojeet Pal, <b>Anmol Panda</b>"
+    venue: "Economics and Political Weekly. Vol. 54, Issue No. 51, 28 Dec, 2019."
+    paper_pdf: "https://www.epw.in/engage/article/twitter-2019-indian-general-elections-trends-use"
+    selected: n
+
+  - title: "COP: Compiler Optimizations to Reduce Memory Stalls for Network Pipelines Written in P4"
+    authors: "Shailja Pandey, Ankit Bhardwaj, <b>Anmol Panda</b>, Sorav Bansal"
+    venue: "Poster in NSDI'18: 15th USENIX Symposium on Networked Systems Design and Implementation. 2018."
+    paper_pdf: "/papers/nsdi_abs.pdf"
+    poster: "/papers/nsdi-poster-1-1.pdf"
+    selected: n
+
+  - title: "A Comparative study of GPUVerify and GKLEE"
+    authors: "<b>Anmol Panda</b>, Phillip Ruemmer, Neena Goveas"
+    venue: "4th International IEEE conference on Parallel and Distributed Grid Computing. 2016."
+    paper_pdf: "/papers/PDGC_paper.pdf"
+    slides: "/papers/PDGC_presentation.pdf"
+    selected: n
