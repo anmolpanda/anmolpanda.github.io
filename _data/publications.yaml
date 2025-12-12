@@ -1,0 +1,241 @@
+papers:
+
+  # ========== SELECTED PUBLICATIONS ==========
+  
+  # Working Papers
+  - title: "Motivational & gendered framing in networked publics on Indian social media: A case study of #HindusUnderAttack"
+    authors: "A. Panda, Z. Akbar, J. Mendelsohn, C. Budak, and M. Bui"
+    venue: "Under Review, Proceedings of the International AAAI Conference on Web and Social Media"
+    year: 2025
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Modalities of political engagement on social media and voting for Donald Trump: Capturing heterogeneity by race over time"
+    authors: "A. Panda and L. Hemphill"
+    venue: "In Submission, Proceedings of the National Academy of Sciences (PNAS)"
+    year: 2025
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "The relationship of social media and news media diet with attitudes of Asian Americans toward policing and immigration"
+    authors: "A. Panda and L. Hemphill"
+    venue: "Under Revision"
+    year: 2025
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  # Journal Articles
+  - title: "How digital paywalls shape news coverage"
+    authors: "P. S. Dhillon, A. Panda, and L. Hemphill"
+    venue: "PNAS Nexus, 4(1)"
+    year: 2025
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Comparative sensitivity of social media data and their acceptable use in research"
+    authors: "L. Hemphill, A. Schöpke-Gonzalez, and A. Panda"
+    venue: "Scientific Data, 9(1)"
+    year: 2022
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Twitter in the 2019 Indian general elections: Trends of use across states and parties"
+    authors: "J. Pal and A. Panda"
+    venue: "Economic and Political Weekly, 54(51)"
+    year: 2019
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+
+  # Major Peer-Reviewed Conference Papers
+  - title: "Misinformation as a window into prejudice: COVID-19 and the information environment in India"
+    authors: "S. Z. Akbar, A. Panda, D. Kukreti, A. Meena, and J. Pal"
+    venue: "CSCW 2021, ACM"
+    year: 2021
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "From greetings to corruption: Politicians, political parties, and tweeting in India"
+    authors: "L. Bozarth, A. Panda, C. Budak, and J. Pal"
+    venue: "ICTD 2020"
+    year: 2020
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Affording extremes: Incivility, social media, and democracy in the Indian context"
+    authors: "A. Panda, S. Chakraborty, N. Raval, H. Zhang, M. Mohapatra, S. Z. Akbar, and J. Pal"
+    venue: "ICTD 2020"
+    year: 2020
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "NivaDuck: A scalable pipeline to build a database of political Twitter handles for India and the United States"
+    authors: "A. Panda, A. Gonawela, S. Acharyya, D. Mishra, M. Mohapatra, R. Chandrasekaran, and J. Pal"
+    venue: "Social Media & Society 2020"
+    year: 2020
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Topical focus of political campaigns and its impact: Findings from politicians’ hashtag use during the 2019 Indian elections"
+    authors: "A. Panda, R. Kommiya Mothilal, M. Choudhury, K. Bali, and J. Pal"
+    venue: "CSCW 2020"
+    year: 2020
+    selected: y
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+
+
+  # ========== ALL PUBLICATIONS (Selected + Other Conference Papers) ==========
+
+  # Other Conference Publications
+  - title: "Devotees on an astroturf: Media, politics, and outrage in the suicide of a popular filmstar"
+    authors: "S. Z. Akbar, A. Sharma, D. Mishra, R. K. Mothilal, H. Negi, S. Nishal, A. Panda, and J. Pal"
+    venue: "ACM COMPASS / SIGCAS 2022"
+    year: 2022
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Dismiss: Database of Indian social media influencers on Twitter"
+    authors: "A. Arya, S. De, D. Mishra, G. Shekhawat, A. Sharma, A. Panda, F. Lalani, P. Singh, R. K. Mothilal, R. Grover, et al."
+    venue: "ICWSM 2022"
+    year: 2022
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Note: Picking sides—The influencer-driven #hijabban discourse on Twitter"
+    authors: "S. De, A. Panda, and J. Pal"
+    venue: "ACM COMPASS / SIGCAS 2022"
+    year: 2022
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "COVID, BLM, and the polarization of US politicians on Twitter"
+    authors: "A. Panda, D. Siddarth, and J. Pal"
+    venue: "arXiv preprint arXiv:2008.03263"
+    year: 2020
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "Leader or party? Personalization in Twitter political campaigns during the 2019 Indian elections"
+    authors: "A. Rajadesingan, A. Panda, and J. Pal"
+    venue: "Social Media & Society 2020"
+    year: 2020
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "ConfLLVM: A compiler for enforcing data confidentiality in low-level code"
+    authors: "A. Brahmakshatriya, P. Kedia, D. P. McKee, D. Garg, A. Lal, A. Rastogi, H. Nemati, A. Panda, and P. Bhatu"
+    venue: "EuroSys 2019"
+    year: 2019
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  - title: "A comparative study of GPUVerify and GKLEE"
+    authors: "A. Panda, P. Rümmer, and N. Goveas"
+    venue: "PDGC 2016"
+    year: 2016
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
+
+  # Book Chapters
+  - title: "Political hazard: Misinformation in the 2019 Indian general election campaign"
+    authors: "S. Z. Akbar, A. Panda, and J. Pal"
+    venue: "In *Political Campaigning in Digital India*, Routledge"
+    year: 2024
+    selected: n
+    paper_pdf:
+    slides:
+    poster:
+    video:
+    code:
+    data:
