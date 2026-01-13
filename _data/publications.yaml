@@ -3,24 +3,24 @@ papers:
   # ========== SELECTED PUBLICATIONS ==========
   
   # Working Papers
-  - title: "Motivational & gendered framing in networked publics on Indian social media: A case study of #HindusUnderAttack"
-    authors: "A. Panda, Z. Akbar, J. Mendelsohn, C. Budak, and M. Bui"
-    venue: "Under Review, Proceedings of the International AAAI Conference on Web and Social Media"
-    year: 2025
-    selected: y
-    paper_pdf:
-    slides:
-    poster:
-    video:
-    code:
-    data:
+  # - title: "Motivational & gendered framing in networked publics on Indian social media: A case study of #HindusUnderAttack"
+  #   authors: "A. Panda, Z. Akbar, J. Mendelsohn, C. Budak, and M. Bui"
+  #   venue: "Under Review, Proceedings of the International AAAI Conference on Web and Social Media"
+  #   year: 2025
+  #   selected: y
+  #   paper_pdf:
+  #   slides:
+  #   poster:
+  #   video:
+  #   code:
+  #   data:
 
   - title: "Modalities of political engagement on social media and voting for Donald Trump: Capturing heterogeneity by race over time"
     authors: "A. Panda and L. Hemphill"
     venue: "In Submission, Proceedings of the National Academy of Sciences (PNAS)"
     year: 2025
     selected: y
-    paper_pdf:
+    paper_pdf: "/assets/publications/2025_engagement/paper.pdf"
     slides:
     poster:
     video:
@@ -32,12 +32,12 @@ papers:
     venue: "Under Revision"
     year: 2025
     selected: y
-    paper_pdf:
+    paper_pdf: "/assets/publications/2025_media_effects/paper.pdf"
     slides:
     poster:
     video:
     code:
-    data:
+    data: 
 
   # Journal Articles
   - title: "How digital paywalls shape news coverage"
@@ -45,19 +45,19 @@ papers:
     venue: "PNAS Nexus, 4(1)"
     year: 2025
     selected: y
-    paper_pdf:
+    paper_pdf: "https://academic.oup.com/pnasnexus/article/4/1/pgae511/7960035"
     slides:
     poster:
     video:
     code:
-    data:
+    data: ""
 
   - title: "Comparative sensitivity of social media data and their acceptable use in research"
     authors: "L. Hemphill, A. Schöpke-Gonzalez, and A. Panda"
     venue: "Scientific Data, 9(1)"
     year: 2022
     selected: y
-    paper_pdf:
+    paper_pdf: "https://www.nature.com/articles/s41597-022-01773-w"
     slides:
     poster:
     video:
@@ -68,8 +68,8 @@ papers:
     authors: "J. Pal and A. Panda"
     venue: "Economic and Political Weekly, 54(51)"
     year: 2019
-    selected: y
-    paper_pdf:
+    selected: n
+    paper_pdf: "https://joyojeet.people.si.umich.edu/wp-content/uploads/2020/02/Twitter-in-the-2019-Indian-General-Elections_-Trends-of-Use-Across-States-and-Parties.pdf"
     slides:
     poster:
     video:
@@ -83,7 +83,7 @@ papers:
     venue: "CSCW 2021, ACM"
     year: 2021
     selected: y
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3432948"
     slides:
     poster:
     video:
@@ -95,7 +95,7 @@ papers:
     venue: "ICTD 2020"
     year: 2020
     selected: y
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3392561.3394636"
     slides:
     poster:
     video:
@@ -107,7 +107,7 @@ papers:
     venue: "ICTD 2020"
     year: 2020
     selected: y
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3392561.3394637"
     slides:
     poster:
     video:
@@ -119,7 +119,7 @@ papers:
     venue: "Social Media & Society 2020"
     year: 2020
     selected: y
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3400806.3400830"
     slides:
     poster:
     video:
@@ -131,7 +131,7 @@ papers:
     venue: "CSCW 2020"
     year: 2020
     selected: y
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3392860"
     slides:
     poster:
     video:
@@ -148,7 +148,7 @@ papers:
     venue: "ACM COMPASS / SIGCAS 2022"
     year: 2022
     selected: n
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3530190.3534801"
     slides:
     poster:
     video:
@@ -160,7 +160,7 @@ papers:
     venue: "ICWSM 2022"
     year: 2022
     selected: n
-    paper_pdf:
+    paper_pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/19370"
     slides:
     poster:
     video:
@@ -172,7 +172,7 @@ papers:
     venue: "ACM COMPASS / SIGCAS 2022"
     year: 2022
     selected: n
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3530190.3534841"
     slides:
     poster:
     video:
@@ -183,8 +183,8 @@ papers:
     authors: "A. Panda, D. Siddarth, and J. Pal"
     venue: "arXiv preprint arXiv:2008.03263"
     year: 2020
-    selected: n
-    paper_pdf:
+    selected: y
+    paper_pdf: "https://arxiv.org/pdf/2008.03263"
     slides:
     poster:
     video:
@@ -196,7 +196,7 @@ papers:
     venue: "Social Media & Society 2020"
     year: 2020
     selected: n
-    paper_pdf:
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3400806.3400827"
     slides:
     poster:
     video:
@@ -220,7 +220,7 @@ papers:
     venue: "PDGC 2016"
     year: 2016
     selected: n
-    paper_pdf:
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7913126"
     slides:
     poster:
     video:
@@ -232,8 +232,8 @@ papers:
     authors: "S. Z. Akbar, A. Panda, and J. Pal"
     venue: "In *Political Campaigning in Digital India*, Routledge"
     year: 2024
-    selected: n
-    paper_pdf:
+    selected: y
+    paper_pdf: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003486305-8/political-hazard-misinformation-2019-indian-general-election-campaign-syeda-zainab-akbar-anmol-panda-joyojeet-pal"
     slides:
     poster:
     video:
