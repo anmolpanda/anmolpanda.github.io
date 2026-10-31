@@ -1,9 +1,15 @@
 experiences:
   - category: "work"
+    place: "Purdue University"
+    time: "2026 – Present"
+    title: "Postdoctoral Researcher, Daniels School of Business"
+    subtitle: "Management Information Systems Department; Advisor: Yu (Jeffrey) Hu <br/>Instructor of record, MIS 54400 Database Management Systems (Fall 2026)"
+
+  - category: "work"
     place: "ICPSR Summer Program"
     time: "2023 – 2025"
     title: "Teaching Assistant"
-    subtitle: "Supported courses in Data Science and Text Analysis, <br/> Data Visualization, Bayesian Models, and Network Science"
+    subtitle: "Supported courses in Data Science and Text Analysis, <br/> Data Visualization, Bayesian Models, Intermediate Mathematics, and Network Science"
 
   - category: "work"
     place: "The World Bank"
@@ -19,9 +25,9 @@ experiences:
 
   - category: "education"
     place: "University of Michigan"
-    time: "2020–Present"
-    title: "Ph.D., Information Science (ABD)"
-    subtitle: "Advisor: Libby Hemphill; Committee: Joyojeet Pal, Matthew Bui, Ted Brader"
+    time: "2020 – 2026"
+    title: "Ph.D., Information"
+    subtitle: "Dissertation: How Media, Engagement, and Identities Relate to Political Behavior among Asian Americans <br/>Advisor: Libby Hemphill; Committee: Joyojeet Pal, Matthew Bui, Ted Brader"
 
   - category: "work"
     place: "Microsoft Research India"
