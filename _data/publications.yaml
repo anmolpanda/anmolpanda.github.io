@@ -27,43 +27,6 @@ papers:
     code:
     data:
 
-  # Working Papers
-  - title: "Modalities of political engagement on social media and support for Donald Trump: Capturing heterogeneity by race over time"
-    authors: "A. Panda and L. Hemphill"
-    venue: "Under review at ICWSM"
-    year: 2026
-    selected: y
-    paper_pdf: "/assets/publications/2025_engagement/paper.pdf"
-    slides:
-    poster:
-    video:
-    code:
-    data:
-
-  - title: "Platform-specific social media use and Asian American attitudes toward affirmative action"
-    authors: "A. Panda and L. Hemphill"
-    venue: "Under review at ICWSM"
-    year: 2026
-    selected: y
-    paper_pdf:
-    slides:
-    poster:
-    video:
-    code:
-    data:
-
-  - title: "The relationship of social media and news media diet with attitudes of Asian Americans toward policing and immigration"
-    authors: "A. Panda and L. Hemphill"
-    venue: "Under Revision"
-    year: 2025
-    selected: y
-    paper_pdf: "/assets/publications/2025_media_effects/paper.pdf"
-    slides:
-    poster:
-    video:
-    code:
-    data: 
-
   # Journal Articles
   - title: "How digital paywalls shape news coverage"
     authors: "P. S. Dhillon, A. Panda, and L. Hemphill"
@@ -119,7 +82,7 @@ papers:
     authors: "L. Bozarth, A. Panda, C. Budak, and J. Pal"
     venue: "ICTD 2020"
     year: 2020
-    selected: y
+    selected: n
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3392561.3394636"
     slides:
     poster:
@@ -131,7 +94,7 @@ papers:
     authors: "A. Panda, S. Chakraborty, N. Raval, H. Zhang, M. Mohapatra, S. Z. Akbar, and J. Pal"
     venue: "ICTD 2020"
     year: 2020
-    selected: y
+    selected: n
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3392561.3394637"
     slides:
     poster:
@@ -208,7 +171,7 @@ papers:
     authors: "A. Panda, D. Siddarth, and J. Pal"
     venue: "arXiv preprint arXiv:2008.03263"
     year: 2020
-    selected: y
+    selected: n
     paper_pdf: "https://arxiv.org/pdf/2008.03263"
     slides:
     poster:
@@ -257,7 +220,7 @@ papers:
     authors: "S. Z. Akbar, A. Panda, and J. Pal"
     venue: "In *Political Campaigning in Digital India*, Routledge"
     year: 2024
-    selected: y
+    selected: n
     paper_pdf: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003486305-8/political-hazard-misinformation-2019-indian-general-election-campaign-syeda-zainab-akbar-anmol-panda-joyojeet-pal"
     slides:
     poster:
