@@ -243,3 +243,6 @@ h4 {
   margin-top: 1.5rem;
 }
 
+/* Keep section headings visible below the frozen menu bar when jumping to a section */
+html {
+  scroll-padding-top: 8rem; }
